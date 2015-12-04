@@ -1,0 +1,1 @@
+Displays a quick overview of users inventories on their profile

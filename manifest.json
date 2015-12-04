@@ -1,6 +1,7 @@
 {
     "name": "Martini",
     "description": "Chrome extension that brings helpful tools for CSGO Traders",
+    "homepage_url": "https://github.com/Codeia/Martini",
     "version": "1.0",
     "manifest_version": 2,
     "permissions": [
